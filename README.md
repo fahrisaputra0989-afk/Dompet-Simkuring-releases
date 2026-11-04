@@ -1,1 +1,1 @@
-Dompet Simkuring - Rilos APK
+Dompet Simkuring - Release APK
