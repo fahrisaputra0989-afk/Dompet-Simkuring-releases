@@ -1,1 +1,1 @@
-MyWallet - rilis APK
+Dompet Simkuring - Rilos APK
