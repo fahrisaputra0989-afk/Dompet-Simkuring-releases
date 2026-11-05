@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/fahrisaputra0989-afk/MyWallet-releases/releases/download/v1.0.1/MyWallet.apk",
-  "sha256": "6f6f89f46ad55f75df3d8c4e1cafa2a88bc907bc7e7cf34808a9b6ed6018654a",
-  "notes_id": "MyWallet v1.0.1",
-  "notes": "MyWallet v1.0.1"
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/fahrisaputra0989-afk/MyWallet-releases/releases/download/v1.0.2/MyWallet.apk",
+  "sha256": "6c3bc6f89820919a2b61b978ee0d795b9553accbc7fe45079c3ce3b393ecbac0",
+  "notes_id": "MyWallet v1.0.2",
+  "notes": "MyWallet v1.0.2"
 }
