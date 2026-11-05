@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/fahrisaputra0989-afk/MyWallet-releases/releases/download/v1.0.2/MyWallet.apk",
-  "sha256": "6c3bc6f89820919a2b61b978ee0d795b9553accbc7fe45079c3ce3b393ecbac0",
-  "notes_id": "MyWallet v1.0.2",
-  "notes": "MyWallet v1.0.2"
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/fahrisaputra0989-afk/MyWallet-releases/releases/download/v1.0.3/MyWallet.apk",
+  "sha256": "989f6e8e615ddcc600b0a91e234a85d13ff1389ada04a474e83c176af0e527dc",
+  "notes_id": "Nama baru: Dompet Simkuring, dengan logo baru\nAnimasi saat aplikasi dibuka dan saat pindah halaman\nDialog peringatan baru yang lebih rapi dan mengikuti tema\nNama file cadangan data kini memakai nama baru",
+  "notes": "Nama baru: Dompet Simkuring, dengan logo baru\nAnimasi saat aplikasi dibuka dan saat pindah halaman\nDialog peringatan baru yang lebih rapi dan mengikuti tema\nNama file cadangan data kini memakai nama baru"
 }
