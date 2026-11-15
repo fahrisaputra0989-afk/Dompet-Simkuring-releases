@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/fahrisaputra0989-afk/MyWallet-releases/releases/download/v1.0.3/MyWallet.apk",
-  "sha256": "989f6e8e615ddcc600b0a91e234a85d13ff1389ada04a474e83c176af0e527dc",
-  "notes_id": "Nama baru: Dompet Simkuring, dengan logo baru\nAnimasi saat aplikasi dibuka dan saat pindah halaman\nDialog peringatan baru yang lebih rapi dan mengikuti tema\nNama file cadangan data kini memakai nama baru",
-  "notes": "Nama baru: Dompet Simkuring, dengan logo baru\nAnimasi saat aplikasi dibuka dan saat pindah halaman\nDialog peringatan baru yang lebih rapi dan mengikuti tema\nNama file cadangan data kini memakai nama baru"
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/fahrisaputra0989-afk/MyWallet-releases/releases/download/v1.0.4/MyWallet.apk",
+  "sha256": "cfe9555ca8461b14260db2b4b0a619c197c1e810e502f65c1e6c0a786bd03bc7",
+  "notes_id": "Popup update otomatis tiap app dibuka, nggak perlu cek manual lagi 🚀\nNotifikasi sekarang pakai logo Dompet Simkuring ✨\nSaldo utama bisa dilihat dalam mata uang negara lain, pilih dari daftar 🌏\nTarget tabungan bisa pakai mata uang asing, lengkap sama benderanya\nCatat pemasukan, pengeluaran, dan transfer dalam mata uang asing juga 💸",
+  "notes": "Popup update otomatis tiap app dibuka, nggak perlu cek manual lagi 🚀\nNotifikasi sekarang pakai logo Dompet Simkuring ✨\nSaldo utama bisa dilihat dalam mata uang negara lain, pilih dari daftar 🌏\nTarget tabungan bisa pakai mata uang asing, lengkap sama benderanya\nCatat pemasukan, pengeluaran, dan transfer dalam mata uang asing juga 💸"
 }
