@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/fahrisaputra0989-afk/MyWallet-releases/releases/download/v1.0.4/MyWallet.apk",
-  "sha256": "e8d39e1d04e392a300d9cce8a9f42cd0bf8dbd931ab6a4d147b3c9a12c7fb89d",
-  "notes_id": "Popup update otomatis tiap app dibuka, nggak perlu cek manual lagi 🚀\nNotifikasi sekarang pakai logo Dompet Simkuring ✨\nSaldo utama bisa dilihat dalam mata uang negara lain, pilih dari daftar 🌏\nTarget tabungan bisa pakai mata uang asing, lengkap sama benderanya\nCatat pemasukan, pengeluaran, dan transfer dalam mata uang asing juga 💸",
-  "notes": "Popup update otomatis tiap app dibuka, nggak perlu cek manual lagi 🚀\nNotifikasi sekarang pakai logo Dompet Simkuring ✨\nSaldo utama bisa dilihat dalam mata uang negara lain, pilih dari daftar 🌏\nTarget tabungan bisa pakai mata uang asing, lengkap sama benderanya\nCatat pemasukan, pengeluaran, dan transfer dalam mata uang asing juga 💸"
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/fahrisaputra0989-afk/MyWallet-releases/releases/download/v1.0.5/MyWallet.apk",
+  "sha256": "4f474b4a50f9af2a663182be6df92fdef39912b4ef9daf92cac1b1e52e62f90f",
+  "notes_id": "Layar app disembunyiin pas keluar ke recent apps, privasi makin aman 🔒 (bisa dimatiin di Keamanan)\nPopup update sekarang muncul setelah PIN kebuka, nggak numpuk lagi 🚀\nTombol ganti mata uang di saldo lebih rapi dan nggak melar\nPopup update tampil lebih estetik dengan logo dan daftar fitur",
+  "notes": "Layar app disembunyiin pas keluar ke recent apps, privasi makin aman 🔒 (bisa dimatiin di Keamanan)\nPopup update sekarang muncul setelah PIN kebuka, nggak numpuk lagi 🚀\nTombol ganti mata uang di saldo lebih rapi dan nggak melar\nPopup update tampil lebih estetik dengan logo dan daftar fitur"
 }
